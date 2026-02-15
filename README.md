@@ -1,6 +1,3 @@
-# project-management-demo
-Practice repo for GitHub project management workflow
-
 # PM GitHub Practice Repo
 
 This repository is used to practice GitHub workflows from a Project Manager perspective.
