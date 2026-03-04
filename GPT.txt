@@ -1,0 +1,167 @@
+Which comnaies do most hriring of project management reagrding roles like: Proejct manager,associate manager , IT Manager , IT head , Proejct lead etc . Product base or  service based
+
+Let’s break it down cleanly.
+
+Short answer first: **service-based companies hire far more project managers than product-based companies**.
+Product companies do hire PM roles, but the volume and frequency are much lower.
+
+Now the why, and then the actual company names.
+
+---
+
+## Why service companies dominate PM hiring
+
+Here’s the thing.
+Service companies run **multiple client projects at the same time**. Every project needs planning, delivery, coordination, reporting, and escalation handling. That creates constant demand for:
+
+* Project Manager
+* Associate / Deputy Project Manager
+* Project Lead
+* IT Manager
+* Delivery Manager
+* Program Manager
+
+Product companies focus on **one or a few products**. Fewer parallel projects. Fewer PM roles. More emphasis on Product Managers rather than Project Managers.
+
+What this really means is:
+If your goal is **faster entry, more openings, and steady growth**, service-based firms are the safer bet.
+
+---
+
+## Service-based companies that hire heavily for PM roles
+
+### Indian IT services (massive PM demand)
+
+These companies hire PMs at scale, every year:
+
+* TCS
+* Infosys
+* Wipro
+* HCLTech
+* Tech Mahindra
+* LTIMindtree
+* Cognizant
+* Capgemini
+* Accenture
+
+Roles you’ll see constantly:
+
+* Project Manager
+* Associate Project Manager
+* IT Manager
+* Project Lead
+* Delivery Manager
+
+---
+
+### Mid-size & fast-growing IT services
+
+Often easier to enter and quicker promotions:
+
+* Persistent Systems
+* Hexaware
+* Birlasoft
+* Mphasis
+* Sonata Software
+* Zensar
+* Cyient
+* Coforge
+
+These firms love people who can handle **client communication + delivery pressure**.
+
+---
+
+### Global consulting & system integrators
+
+Strong PM culture, higher expectations, better exposure:
+
+* Deloitte
+* PwC
+* EY
+* KPMG
+* IBM
+* DXC Technology
+* NTT Data
+
+---
+
+## Product-based companies (lower volume, higher bar)
+
+They do hire PM roles, but selectively.
+
+### Global product companies
+
+* Amazon
+* Microsoft
+* Google
+* Apple
+* Oracle
+* SAP
+* Salesforce
+
+Here, many “PM” titles are actually **Program Manager** or **Technical Program Manager**.
+Strong tech background usually required.
+
+---
+
+### Indian & SaaS product companies
+
+* Zoho
+* Freshworks
+* Razorpay
+* Paytm
+* PhonePe
+* Flipkart
+* Swiggy
+* Zomato
+
+Hiring is limited and competitive. They prefer:
+
+* Internal promotions
+* People with deep domain knowledge
+* PMs who’ve already shipped large products
+
+---
+
+## IT Manager / IT Head roles — where they come from
+
+Most IT Managers and IT Heads are **grown inside service companies**.
+
+Typical path:
+Project Lead → Project Manager → Delivery Manager → IT Manager → IT Head
+
+Service firms provide:
+
+* Team management experience
+* Client ownership
+* Budget responsibility
+
+That’s why senior IT leadership mostly comes from services, not products.
+
+---
+
+## Bottom line
+
+If you want:
+
+* **More job openings**
+* **Clear PM career ladder**
+* **Faster role transitions**
+
+👉 **Service-based companies are your best bet**
+
+If you want:
+
+* **Fewer roles**
+* **Higher pay ceiling**
+* **Product ownership**
+
+👉 **Product-based companies**, but expect a tougher entry.
+
+If you want, tell me:
+
+* Your experience level
+* Technical or non-technical background
+* Target role (PM, IT Manager, IT Head)
+
+I’ll map out the **best companies and next steps specifically for you**.
