@@ -9,6 +9,7 @@ This repository is used to practice GitHub workflows from a Project Manager pers
 - Milestones for sprint planning
 - GitHub Projects board for Kanban workflow
 - Access management and branch protection rules (simulated)
+- Sprint planning using milestones
 
 ## Goal
 To learn and demonstrate real-world GitHub project management skills.
